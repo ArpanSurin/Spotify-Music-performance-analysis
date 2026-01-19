@@ -29,4 +29,5 @@ The analysis focuses on answering business-driven questions and presenting resul
 - High-energy and highly danceable tracks tend to attract higher engagement
 - Top artists consistently have multiple high-performing tracks rather than a single hit
 
-![Spotify Dashboard]()
+
+![Spotify Dashboard](https://github.com/ArpanSurin/Spotify-Music-performance-analysis/blob/main/Spotify-dashboard.png)
